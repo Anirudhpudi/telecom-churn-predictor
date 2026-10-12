@@ -1,5 +1,7 @@
 ﻿# Telecom Churn Predictor
 
+**Live demo:** https://telecom-churn-anirudh.streamlit.app
+
 ### 
 
 Predicting which telecom customers will leave, using the IBM Telco dataset (7,043 customers, 26.5% churn).
@@ -38,6 +40,7 @@ Class weighting raised churner recall from 56% to 78%, because missing a churner
 &#x20;   pip install pandas scikit-learn jupyter
 
 &#x20;   jupyter lab   # open churn.ipynb
+
 
 
 
